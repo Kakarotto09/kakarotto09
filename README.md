@@ -1,7 +1,6 @@
 [![MasterHead](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv)
 <h1 align="center">Hi 👋, I'm Orlando Ocampo</h1>
 <h3 align="center">QA Tester | Analista QA | Manejo de Metodologías Agiles | Experiencia en Banca| Administrador</h3>
-<img aling="right" alt="Coding" width="200" src="https://media.tenor.com/uHLP3KKkGLkAAAAM/city.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kakarotto09&label=Profile%20views&color=0e75b6&style=flat" alt="kakarotto09" /> </p>
